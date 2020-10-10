@@ -23,7 +23,7 @@
         
         multiple input元素可选多个值
 
-        required 提示输入框必须填写；‘’‘
+        required 提示输入框必须填写；
         
         
     -->
